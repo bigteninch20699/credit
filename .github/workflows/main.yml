@@ -4,8 +4,7 @@ name: CI
 
 Host :204.61.63.40:443
 
-Certificate:
-    Data:
+Certificate:Data:
         Version: 3 (0x2)
         Serial Number:
             09:b8:74:e9:1b:e9:ff:b4:74:b1:3e:25:4d:27:4c:5d
